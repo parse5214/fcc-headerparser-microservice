@@ -1,7 +1,7 @@
 {
-  "name": "request-header-parser-microservice",
+  "name": "request-headerparser-microservice",
   "version": "0.0.2",
-  "description": "API project for freeCodeCamp",
+  "description": "Second FCC BackEnd Challenge",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,14 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-headerparser.git"
+    "url": "https://github.com/parse5214/fcc-request-headerparser"
   },
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
   "keywords": [
+    "heroku",
     "freeCodeCamp",
     "node",
     "express"

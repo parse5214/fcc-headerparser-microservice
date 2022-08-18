@@ -1,3 +1,5 @@
-# Request Header Parser Microservice
+# Request Header Parser Microservice from FCC
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+## Description
+
+This is the develop of the Request Header Parser Microservice as part of the FreeCodeCamp curriculum.
