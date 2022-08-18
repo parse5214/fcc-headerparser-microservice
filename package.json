@@ -1,5 +1,5 @@
 {
-  "name": "request-headerparser-microservice",
+  "name": "fcc-headerparser-microservices",
   "version": "0.0.2",
   "description": "Second FCC BackEnd Challenge",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/parse5214/fcc-request-headerparser"
+    "url": "https://github.com/parse5214/fcc-headerparser-microservices"
   },
   "keywords": [
     "heroku",
